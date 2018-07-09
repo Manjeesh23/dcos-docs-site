@@ -1,0 +1,11 @@
+# Common values:
+
+packageName: couchbase
+serviceName: couchbase
+techName: Couchbase
+techShortName: couchbase
+
+# Values specific to certain templates:
+
+security:
+  plaintext: ", \"allow_plaintext\": <true|false default false>"
